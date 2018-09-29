@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+* Template
+https://startbootstrap.com/template-categories/all/
+https://colorlib.com/wp/html5-and-css3-login-forms/
+https://bootswatch.com/
